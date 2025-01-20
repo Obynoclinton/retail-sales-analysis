@@ -29,19 +29,3 @@ This project aims to explore and analyze retail sales data to uncover actionable
 
 ---
 
-## 📂 **Project Structure**
-
-Retail_Sales_Analysis/
-│
-├── data/
-│   ├── retail_data.csv            # Original dataset
-│   ├── cleaned_data.csv           # Cleaned dataset
-│
-├── visuals/
-│   ├── sales_trends.png           # Visual of sales trends
-│   ├── rfm_segments.png           # RFM segmentation visual
-│
-├── retail_sales_analysis.py       # Main Python script
-├── requirements.txt               # Python dependencies
-├── README.md                      # Project documentation
-
