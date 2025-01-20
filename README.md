@@ -30,20 +30,18 @@ This project aims to explore and analyze retail sales data to uncover actionable
 ---
 
 ## 📂 **Project Structure**
-```plaintext
+
 Retail_Sales_Analysis/
 │
 ├── data/
 │   ├── retail_data.csv            # Original dataset
-│   ├── cleaned_data.csv           # Processed dataset
+│   ├── cleaned_data.csv           # Cleaned dataset
 │
 ├── visuals/
-│   ├── sales_trends.png           # Sales trends chart
-│   ├── rfm_segments.png           # RFM segmentation visualization
+│   ├── sales_trends.png           # Visual of sales trends
+│   ├── rfm_segments.png           # RFM segmentation visual
 │
-├── notebooks/
-│   ├── Retail_Sales_Analysis.ipynb  # Jupyter Notebook for the project
-│
-├── retail_sales_analysis.py       # Main Python script for analysis
-├── README.md                      # Project description file
-└── requirements.txt               # Python dependencies
+├── retail_sales_analysis.py       # Main Python script
+├── requirements.txt               # Python dependencies
+├── README.md                      # Project documentation
+
